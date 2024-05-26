@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=evichtrn)
 
-<h3 align="center">I'm a team leader at NinjaDev team, a hacker and a wibu!😁</h3>
+<h2 align="center">I'm a team leader at NinjaDev team, a hacker and a wibu!😁</h2>
 
 - 🔭 I’m currently working on **NinjaDev Team**
 
