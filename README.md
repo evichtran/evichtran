@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm EvichTran!</h1>
-
-<h2 align="center">I'm a team leader at NinjaDev team, a hacker and a wibu!😁</h2>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1203881496944058459)](https://discord.com/users/1203881496944058459)
 
 - 🔭 I’m currently working on **NinjaDev Team**
 
