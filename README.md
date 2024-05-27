@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1203881496944058459)](https://discord.com/users/1203881496944058459)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1203881496944058459?showDisplayName=true)](https://discord.com/users/1203881496944058459)
 
 - 🔭 I’m currently working on **NinjaDev Team**
 
