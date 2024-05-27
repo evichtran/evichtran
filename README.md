@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm EvichTran!</h1>
 
-![](https://komarev.com/ghpvc/?username=evichtrn)
-
 <h2 align="center">I'm a team leader at NinjaDev team, a hacker and a wibu!😁</h2>
 
 - 🔭 I’m currently working on **NinjaDev Team**
@@ -40,7 +38,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=evichtrn&theme=tokyonight&hide_border=false)<br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evichtrn&theme=tokyonight)
-
-<h2 align="left">🍜 Support me a bowl of noodles:</h2>
-<p><a href="https://www.buymeacoffee.com/leohnhat20a"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EvichTran" /></a></p><br><br>
 
