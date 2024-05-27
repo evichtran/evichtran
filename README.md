@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/evichtrn?tab=repositories](https://github.com/evichtrn?tab=repositories)
 
-- 💬 Ask me about **Nextjs, Nestjs or Laravel**
+- 💬 Ask me about **Nextjs, Nestjs and Laravel**
 
 - 📫 How to reach me **leohnhat2012@gmail.com**
 
